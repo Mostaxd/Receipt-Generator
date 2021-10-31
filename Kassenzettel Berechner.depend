@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635713835 source:c:\users\mosta\documents\cpp projects\kassenzettel berechner\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

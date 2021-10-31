@@ -1,0 +1,16 @@
+bananas 1.20
+radio 2.30
+ipod 49.99
+remote 4.99
+tire 20.00
+tire 30.00
+sponge 2.99
+slipper 11.00
+thermometer 8.50
+eraser 1.30
+book 14.99
+book 25.00
+cup 7.00
+cup 5.00
+rug 25.00
+desk 50.00

@@ -1,0 +1,15 @@
+bananas   :	 Produkte:1	 Mittelwert:1.20
+radio     :	 Produkte:1	 Mittelwert:2.30
+ipod      :	 Produkte:1	 Mittelwert:49.99
+remote    :	 Produkte:1	 Mittelwert:4.99
+tire      :	 Produkte:2	 Mittelwert:25.00
+sponge    :	 Produkte:1	 Mittelwert:2.99
+slipper   :	 Produkte:1	 Mittelwert:11.00
+thermometer:	 Produkte:1	 Mittelwert:8.50
+eraser    :	 Produkte:1	 Mittelwert:1.30
+book      :	 Produkte:2	 Mittelwert:19.99
+cup       :	 Produkte:2	 Mittelwert:6.00
+rug       :	 Produkte:1	 Mittelwert:25.00
+desk      :	 Produkte:2	 Mittelwert:50.00
+---------------
+Summe: 309.26
